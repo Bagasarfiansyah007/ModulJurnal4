@@ -1,0 +1,12 @@
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/bin/Debug/netcoreapp3.1/JurnalMod4.deps.json
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/bin/Debug/netcoreapp3.1/JurnalMod4.runtimeconfig.json
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/bin/Debug/netcoreapp3.1/JurnalMod4.runtimeconfig.dev.json
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/bin/Debug/netcoreapp3.1/JurnalMod4.dll
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/bin/Debug/netcoreapp3.1/JurnalMod4.pdb
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/obj/Debug/netcoreapp3.1/JurnalMod4.csprojAssemblyReference.cache
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/obj/Debug/netcoreapp3.1/JurnalMod4.AssemblyInfoInputs.cache
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/obj/Debug/netcoreapp3.1/JurnalMod4.AssemblyInfo.cs
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/obj/Debug/netcoreapp3.1/JurnalMod4.csproj.CoreCompileInputs.cache
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/obj/Debug/netcoreapp3.1/JurnalMod4.dll
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/obj/Debug/netcoreapp3.1/JurnalMod4.pdb
+/Users/AMS/Projects/JurnalMod4/JurnalMod4/obj/Debug/netcoreapp3.1/JurnalMod4.genruntimeconfig.cache
