@@ -7,30 +7,12 @@ namespace JurnalMod4
     {
         static void Main(string[] args)
     {
-        // memanggil generic method
-        Console.WriteLine(Penjumlahan.JumlahTigaAngka<long>(12, 34, 56));
-
         // memvalidasi generic class
         SimpleDataBase<double> db = new SimpleDataBase<double>();
         db.AddNewData(12);
         db.AddNewData(34);
         db.AddNewData(56);
         db.PrintAllData();
-    }
-}
-
-class Penjumlahan
-{
-    public static T JumlahTigaAngka<T>(T input1, T input2, T input3)
-    {
-        dynamic a = input1;
-        dynamic b = input2;
-        dynamic c = input3;
-
-        return a + b + c;
-
-        // atau opsi lain tanpa variable temporary:
-        //return (dynamic)input1 + (dynamic)input2 + (dynamic)input3;
     }
 }
 
